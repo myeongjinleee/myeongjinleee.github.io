@@ -1,0 +1,10 @@
+---
+version: 1
+overrides:
+  _sass/_themes.scss:
+    owner: al_folio_core
+    gem_version: 1.0.11
+    upstream_path: _sass/_themes.scss
+    upstream_sha256: b581e43dcfbf21c14f388e2b585474c886fad62f6b5a0444f7832e7f69745f1f
+    local_sha256: c0b7a8bdc9d7f934ec8a9cd729b9307acf2e4efc06e19617712794adf464a483
+    acknowledged_at: '2026-07-01'
