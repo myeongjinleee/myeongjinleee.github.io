@@ -5,7 +5,7 @@ permalink: /
 subtitle: Ph.D. Candidate, KAIST · Computer Graphics
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -26,5 +26,16 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<style>
+  .profile {
+    width: 60%;
+  }
+  @media (min-width: 576px) {
+    .profile {
+      width: 18%;
+    }
+  }
+</style>
 
 I'm a Ph.D. candidate at KAIST, advised by [Sung-Hee Lee](https://scholar.google.com/citations?user=AVII4wsAAAAJ/), working at the intersection of physics-based simulation and neural methods for garments and cloth.
